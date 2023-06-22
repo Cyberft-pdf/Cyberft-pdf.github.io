@@ -1,0 +1,73 @@
+.cele{
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row;
+  }
+
+
+.fotka1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    vertical-align: bottom;
+}
+
+
+.text{
+    flex: 1;
+
+}
+
+
+
+.fototext{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+.fototext2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+.black-section{
+    background-color: black;
+}
+
+
+
+
+.black-section2{
+    background-color: black;
+    padding: 60px;
+    color: white;
+}
+
+
+.footer-links{
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+}
+
+
+.odkaz{
+    text-decoration: none;    
+
+}
+
+
+.zahl{
+    display: flex;
+    justify-content: space-around;
+
+}
+

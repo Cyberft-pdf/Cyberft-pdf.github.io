@@ -1,0 +1,69 @@
+.cele{
+    display: flex;
+    justify-content: space-between;
+  }
+
+
+.fotka1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.text{
+    flex: 1;
+
+}
+
+
+
+.fototext{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+.fototext2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+.black-section{
+    background-color: black;
+}
+
+
+
+
+.black-section2{
+    background-color: black;
+    padding: 60px;
+    color: white;
+}
+
+
+.footer-links{
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+}
+
+
+.odkaz{
+    text-decoration: none;    
+
+}
+
+
+.zahl{
+    display: flex;
+    justify-content: space-around;
+
+}
+

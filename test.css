@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row;
+  }
+  
+  .text {
+    flex: 1;
+  }
+  
+  .images {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+  }
+  
+  .images img {
+    margin-top: 10px; /* Přidá mezeru mezi obrázky */
+  }
+  
